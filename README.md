@@ -1,8 +1,11 @@
 📂 Como Utilizar
 
 git clone https://github.com/bug-it/automzg.git](https://github.com/maksyflay/scriptzabbixauto.git
+
 cd scriptzabbixauto
+
 chmod +x scriptzabbixauto.sh
+
 sudo ./scriptzabbixauto.sh
 
 
